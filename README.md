@@ -62,3 +62,6 @@
 ## Day-12
 39) Winner of an election 
 40) Sub Array Range With Given Sum
+41) Zero Sum Subarrays 
+42) Print Frequency of characters into given string
+43) Palindrome string
