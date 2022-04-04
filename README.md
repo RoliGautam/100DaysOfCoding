@@ -59,4 +59,6 @@
 37) Check if two arrays are equal or not 
 38) Subarray with 0 sum
 
-
+## Day-12
+39) Winner of an election 
+40) Sub Array Range With Given Sum
