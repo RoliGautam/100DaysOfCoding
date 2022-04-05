@@ -65,3 +65,7 @@
 41) Zero Sum Subarrays 
 42) Print Frequency of characters into given string
 43) Palindrome string
+
+## Day-13
+44) Leaders in an array
+45) Pairs with Positive Negative Values
