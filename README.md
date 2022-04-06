@@ -69,3 +69,7 @@
 ## Day-13
 44) Leaders in an array
 45) Pairs with Positive Negative Values
+
+## Day-14
+46) Anagram Strings
+47) Subsequence of string
