@@ -80,4 +80,4 @@
 
 ## Day-16
 50) Trapping Rain Water
-51) Reverse the string
+51) Reverse words in a string
