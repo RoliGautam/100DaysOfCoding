@@ -73,3 +73,11 @@
 ## Day-14
 46) Anagram Strings
 47) Subsequence of string
+
+## Day-15
+48) Leftmost repeated character in a string
+49) 48) Leftmost non-repeated character in a string
+
+## Day-16
+50) Trapping Rain Water
+51) Reverse the string
