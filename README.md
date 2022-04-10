@@ -81,3 +81,10 @@
 ## Day-16
 50) Trapping Rain Water
 51) Reverse words in a string
+
+## Day-17
+52) Naive pattern search with repeated char
+53) Naive Patten search with non-repeated char
+
+## Day=18
+53) Rabin Karp algorithm for pattern search
