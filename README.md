@@ -86,5 +86,5 @@
 52) Naive pattern search with repeated char
 53) Naive Patten search with non-repeated char
 
-## Day=18
+## Day-18
 53) Rabin Karp algorithm for pattern search
