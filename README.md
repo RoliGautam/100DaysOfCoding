@@ -76,7 +76,7 @@
 
 ## Day-15
 48) Leftmost repeated character in a string
-49) 48) Leftmost non-repeated character in a string
+49) Leftmost non-repeated character in a string
 
 ## Day-16
 50) Trapping Rain Water
@@ -88,3 +88,7 @@
 
 ## Day-18
 53) Rabin Karp algorithm for pattern search
+
+## Day-19
+54) First Largest element in a array
+55) Second Largest Element in a array
