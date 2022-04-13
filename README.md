@@ -92,3 +92,11 @@
 ## Day-19
 54) First Largest element in a array
 55) Second Largest Element in a array
+
+## Day-20
+56) Max frequency element
+57) Mean and median of array
+
+## Day-21
+58) Left rotation by 1 in the array
+59) Left rotation by d in the array
