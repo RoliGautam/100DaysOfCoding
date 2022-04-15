@@ -100,3 +100,10 @@
 ## Day-21
 58) Left rotation by 1 in the array
 59) Left rotation by d in the array
+
+## Day-22
+60) Maximum Circular subarray sum
+
+## Day-23
+61) Lexicographic rank of string
+62) check if both string are rotation of each other or not
