@@ -107,3 +107,20 @@
 ## Day-23
 61) Lexicographic rank of string
 62) check if both string are rotation of each other or not
+
+## Day-24
+63) Rotate the matrix by 90 degree
+64) Print the boundary elements of matrix
+
+## Day-25
+65) Spiral Matrix
+66) Snake Pattern of matrix
+
+## Day-26
+67) Find the Duplicate Number
+68) Minimize Heigth-2
+69) Inorder Implementation of binary tree
+70) Preorder Implementation of binary tree
+71) Postorder Implementation of binary tree
+
+
