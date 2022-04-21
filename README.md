@@ -123,4 +123,7 @@
 70) Preorder Implementation of binary tree
 71) Postorder Implementation of binary tree
 
-
+## Day-27
+72) Find Height of Binary tree
+73) Find the size of Binary tree
+74) Find the all node present at K distance from root
