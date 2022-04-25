@@ -130,3 +130,18 @@
 
 ## Day-28
 75) Set Matrix Zeroes
+
+## Day-29
+76) Next Permutation 
+77) Pascal's triangle
+
+## Day-30
+78) Sort Colors (Dutch National flag algo)
+79) Max Sub array sum (kadane's algo)
+80) Rotate Image
+
+## Day-31
+81) Merge Overlapping Subintervals
+82) Merge two sorted Arrays without extra space
+83) Find the duplicate in an array of N+1 integers
+84) Repeat and Missing Number
