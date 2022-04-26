@@ -145,3 +145,7 @@
 82) Merge two sorted Arrays without extra space
 83) Find the duplicate in an array of N+1 integers
 84) Repeat and Missing Number
+
+## Day-32
+85) Balanced Parenthesis
+86) Search a 2D matrix
