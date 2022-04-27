@@ -149,3 +149,9 @@
 ## Day-32
 85) Balanced Parenthesis
 86) Search a 2D matrix
+
+## Day-33
+87) Majority Element II (leetcode medium)
+88) Majority Element
+89) Pow(x, n) (leetcode medium)
+
