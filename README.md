@@ -155,3 +155,7 @@
 88) Majority Element
 89) Pow(x, n) (leetcode medium)
 
+## Day-34
+90) Find next greater element for each element of array
+91) Find previous greater element for each element of array
+92) Span Stock Problem
