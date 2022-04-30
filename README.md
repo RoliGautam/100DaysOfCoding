@@ -162,3 +162,9 @@
 
 ## Day-35
 93) Grid Unique Paths
+
+## Day-36
+94) Next Smaller
+95) Previous Smaller
+96) Largest Rectangle in Histogram(leetcode hard)
+
